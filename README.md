@@ -54,7 +54,7 @@ A brute force method is to contact every customer in the population and see how 
 A better approach is to recognize existing limitations and shift the focus to improving business efficiency. More precisely, the bank should seek to answer the question of "How can we improve the success rate of obtaining deposit customers at current resource levels?". 
 
 A visual comparison of the two above approaches is illustrated below.
-
+<img src="Images/Comparison of two approaches.png">
 
 
 
